@@ -22,7 +22,7 @@ I am a senior at Georgia State University pursuing a bachelor's degree in Comput
 Connect with me on [LinkedIn](https://www.linkedin.com/in/quoc-le-8669b9177/) to learn more about my professional journey and projects!
 
 # Working On
-Projects that use JavaScript to increase my proficiency and to add more to my portfolio.
+Interning at Thaddeus.org as a Web Dev Intern.
 
 # Languages and Tools
 - Python
